@@ -1,3 +1,5 @@
+![Header](./banner.png)
+
 <h1 align="center">Hi 👋, I'm Prateek Kanaujia</h1>
 <h3 align="center">Computer Science Student | Problem Solver | Building Solutions with Code</h3>
 
